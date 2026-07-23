@@ -100,7 +100,7 @@ This project contains solutions for **29 real-world business problems**, includi
 ```
 ## 📄 Project Report
 
-[View PDF](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/FarmersInsurance_Analysis%20(SQL).pdf)
+[View PDF](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/FarmersInsurance_Analysis(SQL).pdf)
 
 ## 🎓 Learning Outcomes
 
