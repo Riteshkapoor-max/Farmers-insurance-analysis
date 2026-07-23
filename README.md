@@ -114,14 +114,10 @@ Farmers-Insurance-Analysis/
 ## 📸 Project Preview
 
 
-[Dashboard](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203417.png)
+![Dashboard](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203417.png)
 
 ```
 
-or
-
-```
-![SQL Output](Screenshots/output.png)
 ## 🎓 Learning Outcomes
 
 Through this project I strengthened my understanding of:
