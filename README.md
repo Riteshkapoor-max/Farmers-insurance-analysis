@@ -84,13 +84,14 @@ This project contains solutions for **29 real-world business problems**, includi
 ```
 Farmers-Insurance-Analysis/
 │
+├── Dataset/
+├── SQL Queries/
 ├── Presentation/
-│     FarmersInsurance_Analysis (SQL).pdf
-│
 ├── Screenshots/
-│
+│   ├── Dashboard.png
+│   ├── Dashboard2.png
+│   └── SQL_Query_Output.png
 ├── README.md
-│
 └── LICENSE
 
 ## 🚀 Skills Demonstrated
@@ -108,7 +109,7 @@ Farmers-Insurance-Analysis/
 ## 📸 Project Preview
 
 
-![Dashboard](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203403.png)
+![Dashboard](Screenshots/https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203403.png)
 
 ```
 
