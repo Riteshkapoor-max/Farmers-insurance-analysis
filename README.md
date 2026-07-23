@@ -88,7 +88,7 @@ Farmers-Insurance-Analysis/
 ├── SQL Queries/
 ├── Presentation/
 ├── Screenshots/
-│   ├── Dashboard.png
+│   ├── Screenshot 2026-07-21 203403.png
 │   ├── Dashboard2.png
 │   └── SQL_Query_Output.png
 ├── README.md
@@ -109,7 +109,7 @@ Farmers-Insurance-Analysis/
 ## 📸 Project Preview
 
 
-![Dashboard](Screenshots/https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203403.png)
+![Dashboard](Screenshots/Screenshot 2026-07-21 203403.png)
 
 ```
 
