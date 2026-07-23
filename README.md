@@ -87,7 +87,7 @@ Farmers-Insurance-Analysis/
 ├── Dataset/
 │     FarmersInsuranceData.csv
 │
-├── SQL Queries/
+├── sql/
 │     FarmersInsuranceAnalysis.sql
 │
 ├── Presentation/
