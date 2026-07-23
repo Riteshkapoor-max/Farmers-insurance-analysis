@@ -114,7 +114,7 @@ Farmers-Insurance-Analysis/
 ## 📸 Project Preview
 
 
-![Dashboard](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203417.png)
+![Dashboard](images/https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203417.png)
 
 ```
 
