@@ -79,21 +79,6 @@ This project contains solutions for **29 real-world business problems**, includi
 - Ranked states based on premium collection and farmer participation.
 - Used advanced SQL queries to solve analytical business scenarios.
 
-## 📁 Project Structure
-
-```
-Farmers-Insurance-Analysis/
-│
-├── Dataset/
-├── SQL Queries/
-├── Presentation/
-├── Screenshots/
-│   ├── https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203403.png
-│   ├── Dashboard2.png
-│   └── SQL_Query_Output.png
-├── README.md
-└── LICENSE
-
 ## 🚀 Skills Demonstrated
 
 - Data Analysis
@@ -109,7 +94,7 @@ Farmers-Insurance-Analysis/
 ## 📸 Project Preview
 
 
-![Dashboard](Screenshots/Screenshot 2026-07-21 203403.png)
+![Farmers_Insurance_Dashboard](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203403.png)
 
 ```
 
