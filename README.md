@@ -84,14 +84,8 @@ This project contains solutions for **29 real-world business problems**, includi
 ```
 Farmers-Insurance-Analysis/
 │
-├── Dataset/
-│     FarmersInsuranceData.csv
-│
-├── sql/
-│     FarmersInsuranceAnalysis.sql
-│
 ├── Presentation/
-│     FarmersInsurance Analysis (SQL).pdf
+│     FarmersInsurance_Analysis (SQL).pdf
 │
 ├── Screenshots/
 │
