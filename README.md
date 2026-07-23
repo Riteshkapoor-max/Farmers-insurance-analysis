@@ -95,6 +95,7 @@ This project contains solutions for **29 real-world business problems**, includi
 
 
 ![Farmers_Insurance_Dashboard](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203403.png)
+![Farmers_Insurance_Dashboard](https://github.com/Riteshkapoor-max/Farmers-insurance-analysis/blob/main/Screenshot%202026-07-21%20203417.png)
 
 ```
 
